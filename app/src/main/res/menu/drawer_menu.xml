@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_message"
+            android:title="भोजन के अंग परिचय" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="प्रोटीन" />
+        <item
+            android:id="@+id/nav_miscc"
+            android:title="विटामिन परिचय" />
+        <item
+            android:id="@+id/nav_misc"
+            android:title="विटामिन ई" />
+        <item
+            android:id="@+id/nav_vita"
+            android:title="विटामिन ए" />
+        <item
+            android:id="@+id/nav_vitah"
+            android:title="विटामिन एच" />
+        <item
+        android:id="@+id/nav_vitaf"
+        android:title="विटामिन एफ" />
+        <item
+            android:id="@+id/nav_vitak"
+            android:title="विटामिन के" />
+        <item
+            android:id="@+id/nav_vitad"
+            android:title="विटामिन डी" />
+        <item
+            android:id="@+id/nav_vitap"
+            android:title="विटामिन पी" />
+        <item
+            android:id="@+id/nav_vitabc"
+            android:title="विटामिन `बी´ काम्पलेक्स" />
+        <item
+            android:id="@+id/nav_vitac"
+            android:title="विटामिन `सी´" />
+        <item
+            android:id="@+id/nav_vitab1"
+            android:title="विटामिन बी1" />
+        <item
+            android:id="@+id/nav_vitab2"
+            android:title="विटामिन बी2" />
+        <item
+            android:id="@+id/nav_vitab3"
+            android:title="विटामिन बी4" />
+        <item
+            android:id="@+id/nav_vitab6"
+            android:title="विटामिन बी6" />
+        <item
+            android:id="@+id/nav_vitab7"
+            android:title="विटामिन बी7" />
+        <item
+            android:id="@+id/nav_vitab12"
+            android:title="विटामिन बी12" />
+    </group>
+
+</menu>
